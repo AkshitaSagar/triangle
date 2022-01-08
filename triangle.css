@@ -1,0 +1,43 @@
+body{
+    margin-top: 70px;
+    background-color: lightsalmon;
+}
+#align{
+    margin-left: 150px;
+    color: white;
+}
+#triangle{
+    border-bottom: 200px solid red;
+    border-left: 150px solid transparent;
+    border-right: 150px solid transparent;
+    width: 0;
+    margin: auto;
+    
+}
+#merge{
+    border-bottom: 200px solid lightblue;
+    border-left: 150px solid transparent;
+    border-right: 150px solid transparent;
+    width: 0;
+    margin: auto;
+    position: relative;
+    bottom: 140px;
+    color: lightblue;
+}
+#mix{
+    border-bottom: 200px solid green;
+    border-left: 150px solid transparent;
+    border-right: 150px solid transparent;
+    width: 0;
+    margin: auto;
+    position: relative;
+    bottom: 270px;
+    color: lightblue;
+}
+#box{
+    border: 2px solid black;
+    width: 400px;
+    height: 500px;
+    margin-left: 510px;
+    background-color: black;
+}
